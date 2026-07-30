@@ -1,6 +1,6 @@
 # 🏏 Virat Kohli International Career Analytics (2008–2026)
 
-![Dashboard Preview](Image/dashboard_preview.png)
+![Dashboard Preview](Image/CricketDashboard.png)
 
 ## 📌 Executive Summary
 
