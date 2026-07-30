@@ -105,33 +105,6 @@ Including:
 
 ---
 
-# 📂 Repository Structure
-
-```
-Virat-Kohli-Career-Analytics
-│
-├── Data
-│   ├── raw_data
-│   ├── cleaned_datasets
-│   └── virat_career.db
-│
-├── Python
-│   ├── data_extraction.py
-│   ├── data_cleaning.py
-│   └── database_load.py
-│
-├── PowerBI
-│   └── Virat_Kohli_Career_Analytics.pbix
-│
-├── Image
-│   ├── dashboard_preview.png
-│   └── visual_assets
-│
-└── README.md
-```
-
----
-
 # 📈 Dashboard Preview
 
 The Power BI dashboard includes:
