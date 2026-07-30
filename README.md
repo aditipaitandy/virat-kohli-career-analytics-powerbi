@@ -105,19 +105,6 @@ Including:
 
 ---
 
-# 📈 Dashboard Preview
-
-The Power BI dashboard includes:
-
-- Executive career overview
-- Performance trends
-- Format comparison
-- Milestone timeline
-- Opponent analysis
-- AI-generated career insights
-
----
-
 # 📚 Project Highlights
 
 ✔ Complete ETL workflow  
